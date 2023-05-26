@@ -1,10 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # In[8]:
 
-
-# 1) Pesquisar os valores da commodities;
 from selenium import webdriver
 import pandas as pd
 
